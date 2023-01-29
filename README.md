@@ -24,6 +24,7 @@
 ### By using a t-test we could determine the PSI for all the manufacturing lots. Each manufacturing lot needed to have a PSI of 1500 but lot 3 was just under the requirement. 
 
 ![psi](https://user-images.githubusercontent.com/112769590/215308569-dd148d29-c65f-45ed-8157-1515a89d684c.png)
+
 ![psi lots](https://user-images.githubusercontent.com/112769590/215308577-5cbe58cb-e6cf-49fa-a40a-69af094170af.png)
 
 
